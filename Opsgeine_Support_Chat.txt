@@ -1,0 +1,70 @@
+Conversation with Opsgenie
+Started on November 1, 2023 at 06:42 AM UTC time UTC (GMT+0000)
+
+---
+
+06:42 AM | siva narayana manchala: hello
+
+06:42 AM | Operator: Youâ€™ll get replies here and in your email:
+âœ‰ï¸ siva.manchala@identytec.com 
+ Our usual reply time
+ðŸ•’ A few minutes
+
+06:45 AM | Arumugam from Opsgenie: Hi Siva, 
+ï»¿This is Arumugam here, how may I help you today?
+
+06:46 AM | siva narayana manchala: hi
+
+06:46 AM | siva narayana manchala: i have taken trail of https://identytec.app.opsgenie.com/settings/users/
+
+06:47 AM | siva narayana manchala: here i have confusion in licensing part
+
+06:48 AM | Arumugam from Opsgenie: Unfortunately, you've reached out to the technical support team and we only handle cases related to technical issues on your instance. 
+ 
+ However, I can help forward your queries to our billing team and they should be able to help you with it.
+
+06:49 AM | Arumugam from Opsgenie: Please let me know what you would like to know about licensing and I'm more than happy to forward it to our billing team to further help you with it.
+
+06:50 AM | siva narayana manchala: we created schedule of 5 users, but each user will work only 5 days in month
+
+06:50 AM | siva narayana manchala: in this case i need to take 1 license is enough ..?
+
+06:52 AM | Arumugam from Opsgenie: Our subscription model is actually based on the number of users you want to use in Opsgenie and we don't have the concept of licenses in it. 
+ 
+ So you pay for the number of users that use Opsgenie upfront and it is not based on whether they use it for 5 days or more.
+
+06:53 AM | Arumugam from Opsgenie: When you activate the subscription, it will be enabled with 5 user seats that you can invite and your users can utilise.
+
+06:53 AM | Arumugam from Opsgenie: If you would like to know more about it, I would suggest checking with our billing team. Either I can submit a ticket on your behalf or you could reach out to them via https://support.atlassian.com and selecting billing as the query type.
+
+06:55 AM | siva narayana manchala: if i take the 3 user licence
+
+06:55 AM | siva narayana manchala: Opsgeine will not allow me to create 4 user ..??
+
+06:56 AM | Arumugam from Opsgenie: That is correct. As mentioned above, you will be paying for the number of users and the plan you want upfront and if you hit the limit, you can't add more beyond what is enabled for you.
+
+06:57 AM | Arumugam from Opsgenie: We offer a Free plan with 5 users by default, however, the features are limited. Maybe you want to check if this would be okay for your use cases and your team. 
+ 
+ If you want more features, then you will need to upgrade and add users based on the plan. 
+ 
+ https://www.atlassian.com/software/opsgenie/pricing
+
+06:58 AM | siva narayana manchala: we required Voice alert
+
+06:58 AM | siva narayana manchala: may be in free plan is it available ..??
+
+06:59 AM | Arumugam from Opsgenie: Unfortunately, the voice notifications are only available from the Essentials plan and we don't offer it in our Free plans. 
+ 
+ You can compare different plans and features using the link below: 
+ https://www.atlassian.com/software/opsgenie/pricing
+
+07:01 AM | siva narayana manchala: in this case i will take 3 user license and need to add / remove the users
+
+07:03 AM | Arumugam from Opsgenie: Of course, you can select the plan that most appropriately aligns with your specific needs and the number of users you want.
+
+07:05 AM | Arumugam from Opsgenie: Is there anything else that I can help you with?
+
+07:05 AM | siva narayana manchala: can please send me this chat to my mail ID
+
+---
+Exported from Opsgenie on November 1, 2023 at 07:06 AM UTC time UTC (GMT+0000)
